@@ -1,8 +1,9 @@
 ---
 name: Funktion / Feature anfragen
 about: Schlage eine neue oder erweiterte Funktion vor.
-title: ''
-assignees: ''
+title: ""
+assignees: ""
+type: Feature
 labels:
   - feat
 ---
@@ -13,7 +14,7 @@ labels:
 ## Definition of Ready (DoR)
 
 - [ ] Fachliche Idee mit relevanten Stakeholdern abgestimmt
-- [ ] Erwarteter *Wert* (Nutzen für Nutzer:innen, Kund:innen oder Lernen) beschrieben
+- [ ] Erwarteter _Wert_ (Nutzen für Nutzer:innen, Kund:innen oder Lernen) beschrieben
 - [ ] Ggf. benötigte Designs / Mockups so vorbereitet, dass Devs starten können
 - [ ] Wichtige Qualitätsanforderungen (z. B. Performance, Sicherheit, UX) beschrieben
 - [ ] Ggf. Einschätzung von Aufwand und Komplexität innerhalb des PO-Teams abgestimmt

@@ -2,7 +2,8 @@
 name: Fehler melden
 about: Melde einen Fehler oder ein unerwartetes Verhalten in der Anwendung.
 title: ""
-assignees: ''
+assignees: ""
+type: Bug
 labels:
   - bug
 ---
