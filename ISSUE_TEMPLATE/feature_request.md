@@ -3,6 +3,8 @@ name: Funktion / Feature anfragen
 about: Schlage eine neue oder erweiterte Funktion vor.
 title: ''
 assignees: ''
+labels:
+  - Feature
 ---
 
 <details>
