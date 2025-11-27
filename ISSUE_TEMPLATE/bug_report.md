@@ -4,7 +4,7 @@ about: Melde einen Fehler oder ein unerwartetes Verhalten in der Anwendung.
 title: ""
 assignees: ''
 labels:
-  - Bug
+  - bug
 ---
 
 ## Kurzbeschreibung

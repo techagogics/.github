@@ -4,7 +4,7 @@ about: Schlage eine neue oder erweiterte Funktion vor.
 title: ''
 assignees: ''
 labels:
-  - Feature
+  - feat
 ---
 
 <details>
